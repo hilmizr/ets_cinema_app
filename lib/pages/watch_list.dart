@@ -108,7 +108,7 @@ class _WatchListState extends State<WatchList> {
             : buildWatchItems(),
       ),
       floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.red,
         child: Icon(
           Icons.add,
           color: Colors.black,

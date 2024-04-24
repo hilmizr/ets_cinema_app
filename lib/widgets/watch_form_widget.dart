@@ -60,7 +60,7 @@ class WatchFormWidget extends StatelessWidget {
       Container(
         child: ClipRRect(
             borderRadius: BorderRadius.circular(20),
-            child: cover_img != null ? Image.asset('images/poster_placeholder.jpg') : Image.network(cover_img!),
+            child: cover_img != null ? Image.asset('images/poster_placeholder.jpg') : Image.network(this.cover_img!),
         ),
       ),
       TextFormField(
