@@ -16,4 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Screenshots:
-![image](https://github.com/hilmizr/ets_cinema_app/assets/70790033/b7811557-52d9-478a-803a-755fa24dfbef)
+![image](https://github.com/hilmizr/ets_cinema_app/assets/70790033/77ce6d79-b4c6-45e8-ad29-cec5933efc7a)
+![image](https://github.com/hilmizr/ets_cinema_app/assets/70790033/28e39582-f86d-4a76-816e-dfce6e6d72b4)
+![image](https://github.com/hilmizr/ets_cinema_app/assets/70790033/01504215-193c-4ff4-8056-e61bdeec34b1)
+![image](https://github.com/hilmizr/ets_cinema_app/assets/70790033/dea08552-ad44-4cbb-aeec-21d9d76aade3)
+
